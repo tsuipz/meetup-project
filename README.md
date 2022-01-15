@@ -1,5 +1,7 @@
 # Meetup Project
 
+Visit the site: https://meetup-project-kappa.vercel.app/
+
 ## About
 
 This project creates meetups and store that information in a database where we can fetch the information from.
